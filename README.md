@@ -1,62 +1,38 @@
-<div align="center">
+### hi, i'm taha 🤙
 
-`sharey1332`
-
-**taha** · backend developer · 🇦🇱
-
-</div>
+backend developer crafting things at **axeprime**
 
 ---
 
-```js
-const taha = {
-    code: ["PHP", "JavaScript", "TypeScript", "C"],
-    tools: {
-        backend: ["Laravel", "Express.js", "Node.js"],
-        frontend: ["Vue.js"],
-        databases: ["MySQL", "PostgreSQL", "Redis"]
-    },
-    currentFocus: "Building scalable backend systems",
-    funFact: "I mass mass mass mass mass mass mass"
-};
 ```
+php ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ███████████░░░  expert
+javascript ━━━━━━━━━━━━━━━━━━━━━ █████████░░░░░  advanced  
+typescript ━━━━━━━━━━━━━━━━━━━━━ ████████░░░░░░  advanced
+c ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ██████░░░░░░░░  familiar
+```
+
+**frameworks i work with**
+
+`laravel` `express.js` `vue.js` `node.js`
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-
-**→ what i do**
-
-```
-▸ REST API Development
-▸ Database Architecture  
-▸ Server-Side Logic
-▸ Performance Optimization
-```
-
-</td>
-<td width="50%">
-
-**→ currently**
-
-```
-▸ 🔭 Working at axeprime
-▸ 🌱 Deep diving into system design
-▸ ⚡ Building side projects
-```
-
-</td>
-</tr>
-</table>
+> *"talk is cheap. show me the code."* — linus torvalds
 
 ---
 
-<div align="center">
+<details>
+<summary><b>more about me</b></summary>
 
-[`axeprime.pro`](https://axeprime.pro) **·** [`@shareyxrd`](https://instagram.com/shareyxrd)
+<br>
 
-<sub>less talk, more code.</sub>
+- 🔧 focused on **api development** & **backend architecture**
+- 🚀 currently exploring **system design** patterns
+- 💼 building products at [axeprime.pro](https://axeprime.pro)
+- 📸 [@shareyxrd](https://instagram.com/shareyxrd)
 
-</div>
+</details>
+
+---
+
+<sub>albania · open for collaborations</sub>
